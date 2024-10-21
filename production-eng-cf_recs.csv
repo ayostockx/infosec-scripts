@@ -1,0 +1,54 @@
+Zone ID,Zone Name,Record Type,Record Name,Record Content,Matched Resource
+6c4ab3b69dcfa4bb3d6a7dda25146ba3,stockx.com,CNAME,abacus.stockx.com,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+6c4ab3b69dcfa4bb3d6a7dda25146ba3,stockx.com,CNAME,api.stockx.com,d1qtg86l4zarj0.cloudfront.net,API Gateway (Custom Domain)
+6c4ab3b69dcfa4bb3d6a7dda25146ba3,stockx.com,CNAME,gateway.stockx.com,d-yiagdhgffh.execute-api.us-east-1.amazonaws.com,API Gateway (Custom Domain)
+6c4ab3b69dcfa4bb3d6a7dda25146ba3,stockx.com,CNAME,pro.stockx.com,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+6c4ab3b69dcfa4bb3d6a7dda25146ba3,stockx.com,CNAME,stockx.com,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,A,secure.stockx.io,192.0.2.1,API Gateway (Custom Domain)
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,abacus.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,alkaline-go-runner.production.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,authapp-backend.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,authapp.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,auth-image-collection.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,beta.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,cit.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,crystal.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,drc-admin.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,edge-gateway.stockx.io,d3bm37m86okbkb.cloudfront.net,API Gateway (Custom Domain)
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,encore-backend.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,encore.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,engtools-backend.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,engtools.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,fakebook-api.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,gateway-gloo.production.stockx.io,stark-production-gloo-lb-7e5b2a57b2fd6e92.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,gateway.stockx.io,d-jp1ttxo3b8.execute-api.us-east-1.amazonaws.com,API Gateway (Custom Domain)
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,gloo-gateway.production.stockx.io,stark-production-gloo-lb-7e5b2a57b2fd6e92.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,grails-async-service.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,grails.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,help.production.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,ingress-test.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,intake.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,inventory-api.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-next-test.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,logistics-rules.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,mariotest.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,ops-app-server.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,ops-app.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,opstracks.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,payments.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,qa.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,scoutapp.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,seller-promotions.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,shipments.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,sqrl.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,vault.service.greyjoy-production.stockx.io,ac23460be9d1511e99c630ace20b4053-e5bb8361c8470dbe.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,vault.service.stark-production.stockx.io,ab69bd5989d1111e9accb0e4fe5e0c4d-a534f81ef434ebc1.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,verification.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,viper-pit.production.stockx.io,aa56773b89d1511e99c630ace20b4053-18c77533d78bd153.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,viper.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,waiter.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,warehaus.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,warehouse-event-broker.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,warehouse-service-authentication-api.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,warehouse-service.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,xauthapp-backend.production.stockx.io,a9a69d5cd9d1111e9accb0e4fe5e0c4d-ca8a68ab8ee9c42f.elb.us-east-1.amazonaws.com,Load Balancer

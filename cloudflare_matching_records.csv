@@ -1,7 +1,9 @@
 Zone ID,Zone Name,Record Type,Record Name,Record Content,Matched Resource
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,A,secure.dev1.stockx.io,192.0.2.1,API Gateway (Custom Domain)
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,address-book.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,alkaline-go-runner.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,alkaline-nodejs-runner.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,api.dev1.stockx.io,d2r9dqg7oewzhg.cloudfront.net,API Gateway (Custom Domain)
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,api-gateway-authorizer.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,api-gateway-authorizer.ipspace-sandbox.stockx.io,ipspace-external-nginx-841da77b1d844f17.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,auth-image-collection.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer
@@ -79,6 +81,8 @@ Zone ID,Zone Name,Record Type,Record Name,Record Content,Matched Resource
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,event-processor-market-consumer.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,fakebook-api.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,gatekeeper.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,gateway-aws.dev1.stockx.io,d-ukrpsv342d.execute-api.us-east-1.amazonaws.com,API Gateway (Custom Domain)
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,gateway.dev1.stockx.io,d-ukrpsv342d.execute-api.us-east-1.amazonaws.com,API Gateway (Custom Domain)
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,gateway-gloo.dev1.stockx.io,dev-sandbox-redux-gloo-lb-52d75bf27dcbc8b5.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,gloo-gateway.ipspace.stockx.io,ipspace-sandbox-gloo-lb-2de6d9bc2549d4e2.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,grails-web.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer
@@ -213,7 +217,6 @@ Zone ID,Zone Name,Record Type,Record Name,Record Content,Matched Resource
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16147.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16162.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16170.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
-8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16178.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16182.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16186.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16188.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
@@ -221,12 +224,12 @@ Zone ID,Zone Name,Record Type,Record Name,Record Content,Matched Resource
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16197.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16200.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16201.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
-8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16205.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
-8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16208.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
-8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16209.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16211.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
-8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16213.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
-8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16215.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16217.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16221.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16222.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16223.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,iron-pr-16224.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,ld-relay.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,logistics-rules.dev1.stockx.io,dev-frontend-external-ingress-a179d7e2a5e860a8.elb.us-east-1.amazonaws.com,Load Balancer
 8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,logistics-rules-engine.dev1.stockx.io,dev-external-ingress-403bcf977a9de392.elb.us-east-1.amazonaws.com,Load Balancer

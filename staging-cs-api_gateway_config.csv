@@ -1,0 +1,3 @@
+API Name,API ID,Stage,Has Authorizer,WAF Web ACL,API Gateway Type,Invoke URL,Associated Custom Domains
+mso-connect-dynamics-api,na7g8rxpk4,v0,False,No,EDGE,https://na7g8rxpk4.execute-api.us-east-1.amazonaws.com/v0,[]
+dynamicsUpdateConnectAttributes,rvxwcopyx9,test,False,No,REGIONAL,https://rvxwcopyx9.execute-api.us-east-1.amazonaws.com/test,[]

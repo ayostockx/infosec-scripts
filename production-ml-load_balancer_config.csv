@@ -1,0 +1,2 @@
+Load Balancer Name,Load Balancer ARN,Has Security Group,Load Balancer Type,Is Public,VPC ID,VPC Name,DNS Name,Tags
+mlflow-stockx-5b0a7a79,arn:aws:elasticloadbalancing:us-east-1:583756005470:loadbalancer/app/mlflow-stockx-5b0a7a79/dc69ad34a851a997,Yes,application,No,vpc-05ec2b57ac170d4c1,stockx,internal-mlflow-stockx-5b0a7a79-587546062.us-east-1.elb.amazonaws.com,"{'owner': 'stockx', 'terraform-module': 'glovo/mlflow/aws'}"

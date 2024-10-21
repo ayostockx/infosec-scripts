@@ -1,0 +1,2 @@
+API Name,API ID,Stage,Has Authorizer,WAF Web ACL,API Gateway Type,Invoke URL,Associated Custom Domains
+ml-slack-message-handler,9878lercye,ml,False,No,EDGE,https://9878lercye.execute-api.us-east-1.amazonaws.com/ml,[]

@@ -1,0 +1,5 @@
+Zone ID,Zone Name,Record Type,Record Name,Record Content,Matched Resource
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,about.staging.stockx.io,staging-stockx-about-lb-824423415.us-east-1.elb.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,excursions.staging.stockx.io,staging-stockx-excursions-lb-922482819.us-east-1.elb.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,lp.staging.stockx.io,staging-stockx-lp-lb-2122079969.us-east-1.elb.amazonaws.com,Load Balancer
+8fd9427a3d318cf4db0e499eba4b78c8,stockx.io,CNAME,news.staging.stockx.io,staging-stockx-news-lb-777164634.us-east-1.elb.amazonaws.com,Load Balancer

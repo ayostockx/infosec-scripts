@@ -1,0 +1,2 @@
+API Name,API ID,Stage,Has Authorizer,WAF Web ACL,API Gateway Type,Invoke URL,Associated Custom Domains
+Transfer Custom Identity Provider basic template API,pbga5b3fbh,prod,False,No,REGIONAL,https://pbga5b3fbh.execute-api.us-east-1.amazonaws.com/prod,[]

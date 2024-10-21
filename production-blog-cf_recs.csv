@@ -1,0 +1,5 @@
+Zone ID,Zone Name,Record Type,Record Name,Record Content,Matched Resource
+6c4ab3b69dcfa4bb3d6a7dda25146ba3,stockx.com,CNAME,about.stockx.com,prod-stockx-about-lb-519600927.us-east-1.elb.amazonaws.com,Load Balancer
+6c4ab3b69dcfa4bb3d6a7dda25146ba3,stockx.com,CNAME,excursions.stockx.com,prod-stockx-excursions-lb-740356480.us-east-1.elb.amazonaws.com,Load Balancer
+6c4ab3b69dcfa4bb3d6a7dda25146ba3,stockx.com,CNAME,lp.stockx.com,prod-stockx-lp-lb-1059612494.us-east-1.elb.amazonaws.com,Load Balancer
+6c4ab3b69dcfa4bb3d6a7dda25146ba3,stockx.com,CNAME,news.stockx.com,prod-stockx-news-lb-916410971.us-east-1.elb.amazonaws.com,Load Balancer

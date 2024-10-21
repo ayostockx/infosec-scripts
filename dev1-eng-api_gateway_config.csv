@@ -1,0 +1,16 @@
+API Name,API ID,Stage,Has Authorizer,WAF Web ACL,API Gateway Type,Invoke URL,Associated Custom Domains
+dev1-MTI-6579-Test-Case-hyperwallet-mock-api-mock-hyperwallet-rest-api,0i3jjqexrc,dev1,False,No,REGIONAL,https://0i3jjqexrc.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-dev-01-grails-mock-api-mock-grails-rest-api,1qtca9jgq7,dev1,False,No,REGIONAL,https://1qtca9jgq7.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-dev-01-hyperwallet-mock-api-mock-hyperwallet-rest-api,4qc4mkidh6,dev1,False,No,REGIONAL,https://4qc4mkidh6.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-MTI-6421-hyperwallet-mock-api-mock-hyperwallet-rest-api,5ngm0927nk,dev1,False,No,REGIONAL,https://5ngm0927nk.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-MTI-6647-hyperwallet-mock-api-mock-hyperwallet-rest-api,afdt6kc00j,dev1,False,No,REGIONAL,https://afdt6kc00j.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-MTI-6579-Test-Case-currency-mock-api-mock-currency-rest-api,assfze8ku9,dev1,False,No,REGIONAL,https://assfze8ku9.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-edge-gateway-v1_customers,bqr4mdwu42,v1_customers,True,Yes,EDGE,https://bqr4mdwu42.execute-api.us-east-1.amazonaws.com/v1_customers,"[{'domain_name': 'gateway.dev1.stockx.io', 'base_path': 'api/v1/customers', 'regional_domain_name': 'd-ukrpsv342d.execute-api.us-east-1.amazonaws.com'}]"
+public-api,k8ooddiil7,public,True,No,EDGE,https://k8ooddiil7.execute-api.us-east-1.amazonaws.com/public,"[{'domain_name': 'api.dev1.stockx.io', 'base_path': '(none)', 'regional_domain_name': 'N/A'}]"
+dev1-edge-gateway,knvm4k8e56,api,True,Yes,EDGE,https://knvm4k8e56.execute-api.us-east-1.amazonaws.com/api,"[{'domain_name': 'gateway.dev1.stockx.io', 'base_path': 'api', 'regional_domain_name': 'd-ukrpsv342d.execute-api.us-east-1.amazonaws.com'}, {'domain_name': 'secure.dev1.stockx.io', 'base_path': 'api', 'regional_domain_name': 'N/A'}]"
+dev1-dev-01-currency-mock-api-mock-currency-rest-api,nbar0ma5dd,dev1,False,No,REGIONAL,https://nbar0ma5dd.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-MTI-6421-currency-mock-api-mock-currency-rest-api,nt2e8kv0za,dev1,False,No,REGIONAL,https://nt2e8kv0za.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-MTI-6579-Test-Case-grails-mock-api-mock-grails-rest-api,pdfxplpbfg,dev1,False,No,REGIONAL,https://pdfxplpbfg.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-MTI-6421-grails-mock-api-mock-grails-rest-api,scqtdl5iy7,dev1,False,No,REGIONAL,https://scqtdl5iy7.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-MTI-6647-currency-mock-api-mock-currency-rest-api,t6yrqmhjji,dev1,False,No,REGIONAL,https://t6yrqmhjji.execute-api.us-east-1.amazonaws.com/dev1,[]
+dev1-MTI-6647-grails-mock-api-mock-grails-rest-api,um2osl6uci,dev1,False,No,REGIONAL,https://um2osl6uci.execute-api.us-east-1.amazonaws.com/dev1,[]

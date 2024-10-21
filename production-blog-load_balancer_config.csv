@@ -1,0 +1,5 @@
+Load Balancer Name,Load Balancer ARN,Has Security Group,Load Balancer Type,Is Public,VPC ID,VPC Name,DNS Name,Tags
+prod-stockx-about-lb,arn:aws:elasticloadbalancing:us-east-1:447252775069:loadbalancer/app/prod-stockx-about-lb/e717663744636085,Yes,application,Yes,vpc-0bb716a7e26642360,AVM,prod-stockx-about-lb-519600927.us-east-1.elb.amazonaws.com,{'Environment': 'production'}
+prod-stockx-news-lb,arn:aws:elasticloadbalancing:us-east-1:447252775069:loadbalancer/app/prod-stockx-news-lb/b5d12d7d092b780f,Yes,application,Yes,vpc-0bb716a7e26642360,AVM,prod-stockx-news-lb-916410971.us-east-1.elb.amazonaws.com,{'Environment': 'production'}
+prod-stockx-lp-lb,arn:aws:elasticloadbalancing:us-east-1:447252775069:loadbalancer/app/prod-stockx-lp-lb/7e189c60740a94fe,Yes,application,Yes,vpc-0bb716a7e26642360,AVM,prod-stockx-lp-lb-1059612494.us-east-1.elb.amazonaws.com,{'Environment': 'production'}
+prod-stockx-excursions-lb,arn:aws:elasticloadbalancing:us-east-1:447252775069:loadbalancer/app/prod-stockx-excursions-lb/caac70659aad5472,Yes,application,Yes,vpc-0bb716a7e26642360,AVM,prod-stockx-excursions-lb-740356480.us-east-1.elb.amazonaws.com,{'Environment': 'production'}
